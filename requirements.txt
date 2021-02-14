@@ -4,31 +4,31 @@
 # buy_top/.ipynb_checkpoints/MA200 fast and slow - untradeable version-checkpoint.ipynb: 11
 # buy_top/MA200 fast and slow - tradeable version.ipynb: 11
 # buy_top/MA200 fast and slow - untradeable version.ipynb: 11
-ipython == 5.8.0
+ipython
 
 # buy_top/.ipynb_checkpoints/MA200 fast and slow - tradeable version-checkpoint.ipynb: 8,9,10
 # buy_top/.ipynb_checkpoints/MA200 fast and slow - untradeable version-checkpoint.ipynb: 8,9,10
 # buy_top/MA200 fast and slow - tradeable version.ipynb: 8,9,10
 # buy_top/MA200 fast and slow - untradeable version.ipynb: 8,9,10
-matplotlib == 2.2.2
+matplotlib
 
 # buy_top/.ipynb_checkpoints/MA200 fast and slow - tradeable version-checkpoint.ipynb: 6
 # buy_top/.ipynb_checkpoints/MA200 fast and slow - untradeable version-checkpoint.ipynb: 6
 # buy_top/MA200 fast and slow - tradeable version.ipynb: 6
 # buy_top/MA200 fast and slow - untradeable version.ipynb: 6
-numba == 0.46.0
+numba
 
 # buy_top/.ipynb_checkpoints/MA200 fast and slow - tradeable version-checkpoint.ipynb: 3
 # buy_top/.ipynb_checkpoints/MA200 fast and slow - untradeable version-checkpoint.ipynb: 3
 # buy_top/MA200 fast and slow - tradeable version.ipynb: 3
 # buy_top/MA200 fast and slow - untradeable version.ipynb: 3
-numpy == 1.18.1
+numpy
 
 # buy_top/.ipynb_checkpoints/MA200 fast and slow - tradeable version-checkpoint.ipynb: 2
 # buy_top/.ipynb_checkpoints/MA200 fast and slow - untradeable version-checkpoint.ipynb: 2
 # buy_top/MA200 fast and slow - tradeable version.ipynb: 2
 # buy_top/MA200 fast and slow - untradeable version.ipynb: 2
-pandas == 1.0.1
+pandas
 
 # buy_top/.ipynb_checkpoints/MA200 fast and slow - tradeable version-checkpoint.ipynb: 4
 # buy_top/.ipynb_checkpoints/MA200 fast and slow - untradeable version-checkpoint.ipynb: 4
@@ -36,4 +36,4 @@ pandas == 1.0.1
 # buy_top/MA200 fast and slow - untradeable version.ipynb: 4
 yfinance == 0.1.54
 
-papermill == 2.1.0
+papermill
