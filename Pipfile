@@ -13,6 +13,7 @@ yfinance = "*"
 papermill = "*"
 jupyter = "*"
 scipy = "*"
+black = "*"
 
 [dev-packages]
 
